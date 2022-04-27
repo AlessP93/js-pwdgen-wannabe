@@ -1,3 +1,7 @@
 body {
-    background-color: azure;
+    background-image: url("https://www.baltana.com/files/wallpapers-25/Meme-Wallpaper-1024x640-67488.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    
 }
