@@ -8,5 +8,4 @@ const cognomeUtente = prompt("ora inserisci il tuo cognome");
 const coloreUtente = prompt("infine inserisci il tuo colore preferito");
 
 // Infine scrivi sulla pagina nomecognomecolorepreferito21
-const password = "Ciao la tua Password è";
-document.getElementById("title").innerHTML = password + " " + nomeUtente + cognomeUtente + coloreUtente + 21
+document.getElementById("title").innerHTML ="Ciao la tua Password è " + nomeUtente + cognomeUtente + coloreUtente + 21;
